@@ -33,6 +33,7 @@ A capacitor is an electrical component that stores energy, it has 2 terminals. W
 
 Old-school vending machines, like the classic Coca-Cola machines from the 1950s, used electromechanical systems to process coins and dispense items. Our breadboard vending machine simplifies this by using basic digital logic components like switches, LEDs, and an SR latch. Instead of motors and sensors, our design uses logic gates to control when an item is dispensed. This project is a small-scale, educational version of how vending machines function at their core.
 
+
 #Refrence 
 
 Nadaletomas. (n.d.). GitHub - nadaletomas/vendingmachinepage. GitHub. https://github.com/nadaletomas/vendingmachinepage
@@ -40,4 +41,46 @@ Nadaletomas. (n.d.). GitHub - nadaletomas/vendingmachinepage. GitHub. https://gi
 Ashvnv. (n.d.). GitHub - ashvnv/smart-vending-machine: Vending machine with voice assistance. GitHub. https://github.com/ashvnv/smart-vending-machine
 
 Tdowner. (n.d.). GitHub - tdowner93/Breadboard-Vending-Machine-Portfolio-Page. GitHub. https://github.com/tdowner93/Breadboard-Vending-Machine-Portfolio-Page/tree/main
+
+
+
+# Raspberry-Pi-Vending-Machine
+
+# Raspberry Pi
+
+A Raspberry Pi is a small, low-cost computer that you can use for many different projects, like building a robot, creating a home media center, or learning to code. It works like a regular computer—you can connect a monitor, keyboard, and mouse to it—but it's much smaller and cheaper. People use it for fun DIY projects, education, and even advanced tech applications!
+
+# Creating A Vedning Machine
+
+In this picture, we are putting together the breadboard which basically works as the visualization for what we code to the Raspberry Pi.
+
+![image](https://github.com/user-attachments/assets/32e6ab4a-540d-498f-ac7a-8e392efe3b95)
+
+![image](https://github.com/user-attachments/assets/125c8514-1be9-41b7-b7c8-d0ec5dca4484)
+
+# Diagrams
+
+![image](https://github.com/user-attachments/assets/78b2e6c6-5b5b-48d5-be45-d147ef773cde)
+
+![image](https://github.com/user-attachments/assets/9b278c8a-7075-4458-ab7d-da323aae20a0)
+
+# LED On
+
+![image](https://github.com/user-attachments/assets/6619a5c1-b665-4cc5-9ca1-d48481a4bc30)
+
+# LED Off
+
+![image](https://github.com/user-attachments/assets/d888f25d-5c87-424c-8fda-e8d4b857929c)
+
+# References
+Justice, M. (2021). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
+
+AuctionZip. (n.d.). Vintage 1960's Coca-Cola Cavalier CS-64 Vending Machine Professional Restoration. Retrieved February 27, 2025, from https://www.auctionzip.com/auction-lot/vintage-1960-s-coca-cola-cavalier-cs-64-vending-m_5974FD4AB6/
+
+
+
+
+
+
+
 
